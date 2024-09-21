@@ -1,0 +1,5 @@
+{
+    "name": "my-react-for-django-template",
+    "description": "A React template for Django integration using Vite",
+    "version": "1.0.0"
+}
